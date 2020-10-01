@@ -1,3 +1,3 @@
 # UASMobile
-This project was create to fullfill my final mobile learning implementing Firebase thats build notelist for android
+This project was create to fullfill my simple final project mobile learning implementing Firebase that is build notelist in android
 
